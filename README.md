@@ -18,11 +18,15 @@ Compress Image By Reducing Resolution and Size
 ## Development
 
 1. Clone the repository and change directory.
-git clone https://github.com/abhishek305/React-Image-compressor.git
+
+git clone https://github.com/sucharita05/Image_compressor.git
+
 Then navigate to the root directory of the project using cd folder name
 
 2. Install npm dependencies
+
    npm install
    
 3. Run the app locally.
+
    npm start
